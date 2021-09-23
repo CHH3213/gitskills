@@ -1,3 +1,2 @@
 # gitskills
-This is a test!
-细水长流
+关于git使用碰到的一些问题
